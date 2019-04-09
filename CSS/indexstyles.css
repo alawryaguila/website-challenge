@@ -1,5 +1,10 @@
+indexstyles.css
+
+This message was identified as spam. We'll delete it after 10 days. This isn't spam
+Carrie Roberts <carrieroberts95@yahoo.co.uk>
+Tue 09/04/2019 18:36
 body {
-  background-color: rgb(255, 153, 51);
+  background-color: rgb(255, 153, 51, 0.5);
   color: rgb(65,75,86);
   font-family: arial;
   margin: 50px ;
@@ -41,13 +46,12 @@ head {
 .nav-link {
   font-size: 2em;
   text-align: center;
-  background-color: red;
-
+  color: white;
 }
 
 .nav-link:hover {
   font-size: 2.5em;
-  color: pink;
+  color: rgb(244, 66, 89);
   transition: 0.9s ease;
 }
 
